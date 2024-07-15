@@ -1,7 +1,7 @@
 // src/pages/index.tsx
 import React from "react";
 import ContLayout from "./component/ContLayout";
-import StockTable from "./component/StockTable/StockTable";
+import StockTable from "./component/StockTable";
 
 const HomePage: React.FC = () => {
   return (
